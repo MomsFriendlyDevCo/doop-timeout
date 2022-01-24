@@ -1,5 +1,5 @@
 {
-  "name": "@doop/service-timeout",
+  "name": "@doop/timeout",
   "version": "1.0.0",
   "description": "A timeout service for the Doop framework",
   "repository": {
