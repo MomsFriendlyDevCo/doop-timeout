@@ -4,7 +4,7 @@
   "description": "A timeout service for the Doop framework",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MomsFriendlyDevCo/doop-service-timeout.git"
+    "url": "git+https://github.com/MomsFriendlyDevCo/doop-timeout.git"
   },
   "keywords": [
     "doop"
@@ -12,7 +12,10 @@
   "author": "Matt Carter <m@ttcarter.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/MomsFriendlyDevCo/doop-service-timeout/issues"
+    "url": "https://github.com/MomsFriendlyDevCo/doop-timeout/issues"
   },
-  "homepage": "https://github.com/MomsFriendlyDevCo/doop-service-timeout#readme"
+  "homepage": "https://github.com/MomsFriendlyDevCo/doop-timeout#readme",
+  "workspaces": [
+    "../*"
+  ]
 }
